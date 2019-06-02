@@ -6,6 +6,14 @@
 npm install -g poetry-cli
 ```
 
+```bash
+poetry init <project-name>
+
+cd <project-name> && npm install
+
+npm run dev
+```
+
 ```
 ? 请选择使用的模板
 ❯ umi
@@ -14,13 +22,6 @@ npm install -g poetry-cli
   next
 ```
 
-```bash
-poetry init <project-name>
-
-cd <project-name> && npm install
-
-npm run dev
-```
 
 ## 程序目录
 
