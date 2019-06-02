@@ -20,7 +20,7 @@ export default {
         webpackChunkName: true,
         loadingComponent: './components/PageLoading',
       },
-      title: 'yunle-template-umi',
+      title: 'poetry-template-umi',
       dll: {
         exclude: [],
         include: ["dva", "dva/router", "dva/saga", "dva/fetch", "antd/es"],

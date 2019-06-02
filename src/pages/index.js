@@ -16,7 +16,7 @@ class Index extends React.Component {
     return (
       <div className={styles.wrap}>
         <Button>
-          yunle-template-umi
+          poetry-template-umi
         </Button>
       </div>
     );
