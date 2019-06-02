@@ -2,23 +2,24 @@
 
 如使用该前端脚手架，可以先安装
 
-1. `npm install -g poetry-cli`
-
-2. `poetry init <project-name>`
-
-3. `cd <project-name> && npm install`
-
-4. `npm run dev`
-
+```bash
+npm install -g poetry-cli
+```
 
 ```
- poetry init umi-project
-
 ? 请选择使用的模板
 ❯ umi
   taro
   electron
   next
+```
+
+```bash
+poetry init <project-name>
+
+cd <project-name> && npm install
+
+npm run dev
 ```
 
 ## 程序目录
